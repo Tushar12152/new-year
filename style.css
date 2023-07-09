@@ -1,6 +1,7 @@
 *{
     margin:0;
     padding:0;
+    font-family: Work Sans;
 }
 /* navbar-section */
 .navbar{
@@ -43,4 +44,43 @@
     font-family: Work Sans;
     font-size: 20px;
     font-weight: 600;
+}
+
+.banner-section{
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+  
+
+    
+    
+}
+.bnr-photo{
+    padding:50px;
+    background-color:;
+    border-radius:50%;
+    
+
+}
+
+.banner-h{
+    color:#151414;
+font-size: 60px;
+font-weight: 700;
+margin-bottom:0px;
+}
+.banner-p{
+    margin-top:20px;
+    color: #444343;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+margin-bottom: 0px;
+}
+.banner-l{
+    color: #444343;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+margin-top: 20px;
 }
